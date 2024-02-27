@@ -1,0 +1,231 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(71, 70, 70);
+    overflow-x: hidden;
+}
+
+nav {
+    background-color: rgb(54, 54, 54);
+    height: 80px;
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+    /* position: fixed; */
+}
+
+a {
+    margin-top: 30px;
+    color: thistle;
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#bmw {
+    margin-left: -40px;
+    height: 81px;
+}
+
+#m {
+    margin-left: -204px;
+    height: 120px;
+    margin-top: -17px;
+}
+
+hr {
+    margin-top: -1px;
+    color: aliceblue;
+    width: 101%;
+}
+
+
+.container {
+    display: flex;
+    height: 490px;
+    /* background-color: red;
+    margin-top: 21px; */
+}
+
+.left {
+    height: 547px;
+    margin-top: -50px;
+    width: 40%;
+    margin-left: 10px;
+}
+
+.text {
+    margin-top: 44%;
+}
+
+#h1 {
+    margin-top: 25%;
+    margin-left: 3%;
+    font-family: "Bruno Ace SC", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 40px;
+
+}
+
+p {
+    font-family: "Shalimar", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 3%;
+    margin-top: -2%;
+    color: bisque;
+
+}
+
+
+.right {
+    height: 547px;
+    /* background-color: rgb(214, 29, 22); */
+    margin-top: -7px;
+    width: 60%;
+}
+
+.BMW_M {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -80px;
+}
+
+.M_Serise {
+    width: 264px;
+    height: 450px;
+    margin-top: 16%;
+    border-radius: 10px;
+
+}
+
+
+.last {
+    margin-top: 20px;
+}
+
+.M5_series {
+    display: flex;
+}
+
+.MS {
+    width: 450px;
+    margin-top: 80px;
+    margin-left: 25px;
+    border-radius: 30px;
+    border: 1px solid rgb(219, 219, 219);
+}
+
+.card {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.MS1 {
+    width: 450px;
+    margin-top: 20px;
+    margin-right: 5px;
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 30px;
+
+}
+
+.card1 {
+    margin-top: 55px;
+    margin-left: 39px;
+}
+
+.MS2 {
+    width: 450px;
+    margin-top: 30px;
+    margin-right: -5px;
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 30px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+
+.card2 {
+    margin-top: 55px;
+    margin-left: 39px;
+}
+
+
+
+@media screen and (min-width:250px) and (max-width:1120px) {
+    nav {
+        width: 1500px;
+
+    }
+#pp{
+    width: 250px;
+}
+    hr {
+        width: 1500px;
+    }
+
+    .text {
+        margin-left: 50px;
+    }
+
+    .left {
+        width: 90%;
+        margin-top: -90px;
+        margin-left: 10px;
+    }
+
+    .right {
+        height: 547px;
+        margin-top: 40px;
+        width: 40%;
+        justify-content: space-evenly;
+        position: static;
+    }
+
+    .BMW_M {
+        display: flex;
+        justify-content: space-between;
+        margin-top: -10px;
+        margin-left: 290px;
+    }
+
+    .MS {
+        width: 750px;
+        height: 500px;
+    }
+
+    .MS1 {
+        width: 750px;
+        height: 500px;
+    }
+
+    .MS2 {
+        width: 750px;
+        height: 500px;
+    }
+
+    .card {
+        margin-left: 100px;
+        margin-top: 200px;
+        display: flexbox;
+        }
+    .card1 {
+        margin-left: 100px;
+        margin-top: 200px;
+        display: flexbox;
+        }
+    .card2 {
+        margin-left: 100px;
+        margin-top: 200px;
+        display: flexbox;
+        }
+    .M5_series{
+        width: 1500px;
+    }
+
+#p{
+    margin-right: 90px;
+}
+    
+}
