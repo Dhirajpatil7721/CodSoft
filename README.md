@@ -16,7 +16,7 @@ Skills
 4) Bootstrap
 5) React
 6) SQL
-About Me
+About Me:-
 i am a passinate front-end Devloper, and i love for making responsive websites. 
 
 Contact:-
