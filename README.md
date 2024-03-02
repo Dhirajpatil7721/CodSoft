@@ -23,5 +23,3 @@ Contact:-
 Email: dhirajpatil7721@gmail.com
 LinkedIn:https://www.linkedin.com/in/dhiraj-patil-046646230
 Website:https://www.linkedin.com/in/dhiraj-patil-046646230 
-
-Feel free to reach out to me for collaboration or any inquiries!
