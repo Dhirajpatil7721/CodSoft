@@ -17,7 +17,7 @@ Skills
 5) React
 6) SQL
 About Me:-
-i am a passinate front-end Devloper, and i love for making responsive websites. 
+i am a passinate front-end Devloper, and i love for making responsive websites..
 
 Contact:-
 Email: dhirajpatil7721@gmail.com
