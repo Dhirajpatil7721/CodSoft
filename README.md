@@ -6,7 +6,7 @@ Welcome to my portfolio! This repository contains a collection of projects and w
 Portfolio
 Description: This is my Portfolio that showcase my skils and ability to work on  front-end Technology.
 Technologies: List of technologies used in this project are JavaScript, HTML, CSS ,Responsive  .
-Link:https://www.linkedin.com/in/dhiraj-patil-046646230 .
+Link:https://www.linkedin.com/in/dhiraj-patil-046646230 
 
 
 Skills
