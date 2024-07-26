@@ -6,7 +6,6 @@ BMW Landing Page: This is BMW Landing Page that showcase my skils and ability to
 
 Calculator Description: This is my Calculator that showcase my skils and ability to work on front-end Technology. Technologies: List of technologies used in this project are JavaScript, HTML, CSS ,Responsive . Link:https://www.linkedin.com/in/dhiraj-patil-046646230 .
 
-
 3) Dhiraj's Portfolio
 Description: This is my Portfolio that showcase my skils and ability to work on  front-end Technology.
 Technologies: List of technologies used in this project are JavaScript, HTML, CSS ,Responsive  .
